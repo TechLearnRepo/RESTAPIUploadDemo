@@ -1,0 +1,6 @@
+@RESTAPIUploadDemo_HostAddress = http://localhost:5198
+
+GET {{RESTAPIUploadDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
